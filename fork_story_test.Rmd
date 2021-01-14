@@ -1,0 +1,15 @@
+---
+title: "BS Story start"
+author: "Kurt Wilson"
+date: "1/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For the fork test...
+
+Peter, Blake, and Wes walked into the graveyard off 11th Avenue, where they encountered a fork...
+
